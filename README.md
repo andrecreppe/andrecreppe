@@ -22,11 +22,11 @@
 ### Frameworks:
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-original.svg" alt="laravel" width="25" height="25"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="25" height="25"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ionic/ionic-original.svg" alt="ionic" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angular/angular-original.svg" alt="angular" width="25" height="25"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="angularjs" width="25" height="25"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nestjs/nestjs-original.svg" alt="nestjs" width="25" height="25"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="25" height="25"/>
 </p>
 
 ### Connect with me:
