@@ -41,8 +41,6 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-   <img align="right" src="https://komarev.com/ghpvc/?username=andrecreppe" alt="andrecreppe" />
-   
    <img align="left" alt="andrecreppe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrecreppe&show_icons=true&hide_border=true" />
    <img align="right" alt="andrecreppe's favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecreppe&language=compact&hide_border=true" />
 </details>
