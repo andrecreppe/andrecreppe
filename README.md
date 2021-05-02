@@ -1,7 +1,6 @@
 <h1 align="center"> Hello there! 👋</h1>
 <h2 align="left"> 
    I'm a Mechatronics Engineering Student, Fullstack Developer and Tech Enthusiast!
-   <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
 </h2>
 
 ### Languages:
@@ -42,6 +41,8 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
+   <img align="right" src="https://komarev.com/ghpvc/?username=andrecreppe" alt="andrecreppe" />
+   
    <img align="left" alt="andrecreppe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrecreppe&show_icons=true&hide_border=true" />
    <img align="right" alt="andrecreppe's favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecreppe&language=compact&hide_border=true" />
 </details>
