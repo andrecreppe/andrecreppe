@@ -1,6 +1,7 @@
 <h1 align="center"> Hello there! 👋</h1>
 <h2 align="left"> 
    I'm a Mechatronics Engineering Student, Fullstack Developer and Tech Enthusiast!
+   <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
 </h2>
 
 ### Languages:
@@ -37,28 +38,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrecreppe/)](https://www.linkedin.com/in/andrecreppe/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrecrepper@gmail.com)](mailto:andrecrepper@gmail.com)
 
-<!--
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/andrecreppe/)](https://www.instagram.com/andrecreppe/)
--->
-
 <hr>
 
-### Github Stats
-
-<img align="left" alt="andrecreppe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrecreppe&show_icons=true&hide_border=true" />
-<img align="right" alt="andrecreppe's favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecreppe&language=compact&hide_border=true" />
-
-<!--
-**andrecreppe/andrecreppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>:zap: Github Stats</summary>
+   <img align="left" alt="andrecreppe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrecreppe&show_icons=true&hide_border=true" />
+   <img align="right" alt="andrecreppe's favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecreppe&language=compact&hide_border=true" />
+</details>
