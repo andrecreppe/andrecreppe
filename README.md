@@ -43,12 +43,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrecrepper@gmail.com)](mailto:andrecrepper@gmail.com)
 
 <hr>
+
 <details>
    <summary>:zap: <strong> My Github Stats</strong> </summary>
    <img align="left" alt="andrecreppe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrecreppe&show_icons=true&hide_border=true" />
    <img align="right" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecreppe&language=compact&hide_border=true" />
 </details>
-
-<hr>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
